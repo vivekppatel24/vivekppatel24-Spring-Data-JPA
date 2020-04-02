@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 20-hibernate-basic-cruddemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vivek
+Implementation-Vendor-Id: com.luv2code.springboot
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cruddemo
+Created-By: Maven Integration for Eclipse
+
